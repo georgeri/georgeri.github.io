@@ -1,8 +1,6 @@
 # RIJO GEORGE
 
-:email: rijo.george@live.com
-
-:phone: (347) 878-7456
+:email: rijo.george@live.com :phone: (347) 878-7456
 
 ## SUMMARY
 
@@ -27,17 +25,11 @@ _Servers:_ IIS 5.1-7.5, Apache, Tomcat, IBM WebSphere, Oracle 9i/10g, Microsoft 
 
 ## EXPERIENCE
 
-### Enterprise Engineering Inc., NY
+### Merrill Lynch (Bank of America), Pennington, NJ
 
-Aug 2013 – Jul 2014
+Aug 2013 – July 2014, Application Developer Level IV / Senior Software Developer (Consultant)
 
-#### Merrill Lynch (Bank of America), Pennington, NJ
-
-Aug 2013 – July 2014
-
-Application Developer Level IV / Senior Software Developer
-
-##### Wealth Management Services / Goal Based Analytics Engine
+#### Wealth Management Services / Goal Based Analytics Engine
 
 - Designed and implemented a modular analytics engine framework which allows ready reuse of various modules and subroutines for doing different sets of data analytics.
 - Implemented the analytics to determine for a given wealth management portfolio, a client's goals can be achieved on the specific plan and investor profile.
@@ -48,7 +40,7 @@ Application Developer Level IV / Senior Software Developer
 
 Tech: C#/.NET, PLINQ, ASP.NET, WCF, WebServices, MS Test; IIS 7, Visual Studio 2010-2012, Team Foundation Server, Windows Server 2008 R2.
 
-##### Wealth Management Tools / External Accounts – Yodlee Integration
+#### Wealth Management Tools / External Accounts – Yodlee Integration
 
 - Designed and developed web service methods to provide client's external account data received from a Yodlee feed so that it is a part of the basic client data used by various wealth management tools and services internal to the organization.
 - Revised the existing entity schema definitions for the new functionality without breaking backward compatibility to allow staggered upgrade of consumer applications to use additional / extended functionalities.
@@ -57,17 +49,11 @@ Tech: C#/.NET, PLINQ, ASP.NET, WCF, WebServices, MS Test; IIS 7, Visual Studio 2
 
 Tech: C#/.NET, ASP.NET, HTML, AngularJS, jQuery, JSON, WCF, WebServices, Merrill  Lynch Data Framework, MS Test; IIS 7, Visual Studio 2010-2012, Team Foundation Server, Windows Server 2008 R2.
 
-### E-Pros Development Group, NY
+### SURFACExchange, Greenwich, CT
 
-Apr 2007 – Jul 2013
+Sep 2009 – July 2013, Senior Enterprise Software Developer / Lead Developer
 
-#### SURFACExchange, Greenwich, CT
-
-Sep 2009 – July 2013
-
-Senior Enterprise Software Developer / Lead Developer
-
-##### FX Options Exchange / Trading Application (low latency trading)
+#### FX Options Exchange / Trading Application (low latency trading)
 
 - Designed and developed a web based, real-time data streaming trading application front-end of a low latency FX options exchange.
 - Directly involved in architecture decisions, design of the system, and module development right from the requirements stage.
@@ -82,13 +68,11 @@ Senior Enterprise Software Developer / Lead Developer
 
 Tech: C#/.NET 4.0, ASP.NET, HTML, JavaScript, jQuery, Telerik, 29West UMS, Lightstreamer, WPF, T-SQL; SQL Server 2008 R2, IIS 7, Visual Studio 2010, Team Foundation Server, MS SQL Server Management Studio, Windows Server 2008 R2, Window Vista/7.
 
-#### UBS Investment Bank, Stamford, CT
+### UBS Investment Bank, Stamford, CT
 
-Dec 2007 – Sep 2009
+July 2003 – Sep 2009, Computer Programmer Analyst / Senior Developer (Consultant)
 
-Computer Programmer Analyst / Senior Developer
-
-##### Banker Portal - Microsoft Exchange Integration (two-way data synchronization)
+#### Banker Portal - Microsoft Exchange Integration (two-way data synchronization)
 
 - Designed and implemented two-way synchronization of appointments and contacts in banker's portal and bank-wide messaging system on Microsoft Exchange Server using MS Exchange API such as ADO/CDO, WebDAV
 - Built the synchronization engine with update conflict resolution support on a C#/.NET 2.0 platform and deployed it on an IIS + Microsoft Exchange 2003 server.
@@ -96,47 +80,19 @@ Computer Programmer Analyst / Senior Developer
 
 Tech: C#/.NET 2.0, ASP.NET, ADO/CDO, WebDAV, LDAP, MS Exchange API; Oracle 10g, IIS 6, Visual Studio 2005/2008, Rational ClearCase, Microsoft Exchange Server 2003, Windows Server 2003.
 
-##### Email Request Approval Tracking System
+#### Email Request Approval Tracking System
 
 - Designed and implemented a web service which can send out emails with voting choices and then track and process the replies from the recipients based on customizable rule per request. The system also allowed the client applications to specify reminder emails to the initial emails. System provided client applications with detailed tracking data such as delivery/non-delivery, read/non-read receipts, individual votes per email. Built on .NET/SQL server platform, the application utilized MS Exchange API for sending and tracking of emails.
 
 Tech: C#/.NET 2.0, ASP.NET, ADO/CDO, WebDAV, MS Exchange API; IIS 6, SQL Server 2005, Visual Studio 2005/2008, Rational ClearCase, Windows Server 2003,  Microsoft Exchange Server 2003.
 
-#### E-Pros Development Group (Internal Projects)
-
-Apr 2007 – Jul 2013
-
-Senior Software Application Engineer
-
-##### Collaborative Team management system with Microsoft Exchange integration
-
-- Designed and developed a C#/ASP.NET web based application for managing a sport team / club with integrated event scheduling facility using Exchange API allowing better communication and collaboration between teams and its members. This used meeting scheduling and tracking facilities of Microsoft Exchange extensively.
-
-Tech: C#/.NET 2.0, ASP.NET, ADO.NET, CDO, WebDAV, MS Exchange API; IIS 6, SQL Server 2005, Microsoft Exchange 2003, Windows Server 2003.
-
-##### Windows Domain and Microsoft Exchange Administration
-
-- Managed Windows domain and administered Microsoft Exchange for multiple small business clients.
-
-Tech: Microsoft Server 2003 R2, Active Directory, Microsoft Exchange 2003, Windows XP, Data centers.
-
-### Larsen &amp; Toubro InfoTech Limited, NJ
-
-Feb 2001 – Mar 2007
-
-#### UBS Investment Bank, Stamford CT
-
-July 2003 – Mar 2007
-
-Computer Programmer Analyst / Developer
-
-##### CRM - Microsoft Exchange Integration (data synchronization engine)
+#### CRM - Microsoft Exchange Integration (data synchronization engine)
 
 - Designed and developed a complete data synchronization engine in Java and C#/.NET platforms for integration of Oracle CRM data with Microsoft Exchange 2000/2003, enabling data capture and synchronization between an internal CRM system and Microsoft Exchange clients such as Outlook, RIM BlackBerry, etc.
 
 Tech: Java, C#/.NET 2.0, ASP.NET, WebDAV, LDAP, MS Exchange API, Oracle JPDK; Oracle 9i, IIS 6, Visual Studio 2003/2005, Eclipse, Rational ClearCase, Microsoft Exchange Server 2003, Windows Server 2000/2003.
 
-##### CRM API Services
+#### CRM API Services
 
 - Analyzed requirements from other teams and performed the design and development of API interfaces for Oracle CRM data to expose them as Java remote call libraries and XML over HTTP web service using Java Servlets, JSP and Spring Framework.
 - Deployed on Apache/Tomcat server, this enabled other applications to integrate with the Oracle CRM application.
@@ -144,7 +100,7 @@ Tech: Java, C#/.NET 2.0, ASP.NET, WebDAV, LDAP, MS Exchange API, Oracle JPDK; Or
 
 Tech: Java 1.4,  Java Servlets, JSP, Spring Framework, XML, C#/.NET 2.0, Windows Forms, Oracle 9i, Eclipse, Visual Studio 2003, Rational ClearCase, Apache/Tomcat, Linux, Solaris.
 
-##### Marketing Event Management System
+#### Marketing Event Management System
 
 - Developed the prototype and user interface for a web-based marketing event management application in J2EE and WebSphere. It allowed multiple teams to plan and co-ordinate the execution of marketing events across the world.
 - On a non-Microsoft platform, it used Microsoft Office documents as a quick alternative input method and sent personalized marketing materials to recipients using Apache Velocity and Apache POI.
@@ -152,34 +108,48 @@ Tech: Java 1.4,  Java Servlets, JSP, Spring Framework, XML, C#/.NET 2.0, Windows
 
 Tech: Java, J2EE, Apache Velocity and POI, DHTML, JavaScript, IBM WebSphere Studio, Oracle 9i, WebSphere 5.1/6, Apache/Jserv, Solaris.
 
-##### Electronic Research Distribution System
+#### Electronic Research Distribution System
 
 - Automated parts of investment research distribution workflow by integrating electronic research distribution system with the research-publishing platform using Java Messaging (JMS) on webMethods infrastructure.
 - Implemented PGP encryption of documents mailed from the electronic research distribution system using Cryptix libraries.
 
 Tech: Java, JSP, Servlets, JMS, PGP, Cryptix, webMethods, Apache/Jserv, Oracle 9i, Solaris.
 
-#### Larsen &amp; Toubro InfoTech Limited (Internal Projects)
+### E-Pros Development Group (Internal Projects)
 
-Feb 2001 – June 2003
+Apr 2007 – Jul 2013, Senior Software Application Engineer
 
-Software Developer
+#### Collaborative Team management system with Microsoft Exchange integration
 
-##### Global Logistics
+- Designed and developed a C#/ASP.NET web based application for managing a sport team / club with integrated event scheduling facility using Exchange API allowing better communication and collaboration between teams and its members. This used meeting scheduling and tracking facilities of Microsoft Exchange extensively.
+
+Tech: C#/.NET 2.0, ASP.NET, ADO.NET, CDO, WebDAV, MS Exchange API; IIS 6, SQL Server 2005, Microsoft Exchange 2003, Windows Server 2003.
+
+#### Windows Domain and Microsoft Exchange Administration
+
+- Managed Windows domain and administered Microsoft Exchange for multiple small business clients.
+
+Tech: Microsoft Server 2003 R2, Active Directory, Microsoft Exchange 2003, Windows XP, Data centers.
+
+### Larsen &amp; Toubro InfoTech Limited (Internal Projects)
+
+Feb 2001 – Mar 2007, Software Developer
+
+#### Global Logistics
 
 - Developed framework libraries in Java and DHTML base libraries for team wide use during the development of a J2EE web application which allowed management of logistics of complex shipping operations worldwide.
 - Designed and programmed a reference implementation of the system architecture and proof of concept to showcase system flow and GUI.
 
 Tech: Java, J2EE, DHTML, JavaScript.
 
-##### E-Procurement Plus
+#### E-Procurement Plus
 
 - Developed the initial prototype and a complete reverse auction module for a web-based e-Procurement application using HTML, XML/XSL, Java, J2EE, JSP, and JMS on WebLogic 6.1 with Oracle 8i back-end.
 - Ported the application from WebLogic 6.1 to Oracle 9ias for deployment.
 
 Tech: Java, J2EE, JSP, Servlets, JMS, HTML, XML/XSL; Oracle 8i, Oracle 9ias, WebLogic 6.1.
 
-##### Online Position Reporting System
+#### Online Position Reporting System
 
 - Developed a parameterization module for web-based position reporting (commodity trading) application using JSP, Servlets and PL/SQL, which added the capability to define and generate new reports to the application.
 - Configured and deployed the application on ATG Dynamo 5 server.
@@ -188,12 +158,12 @@ Tech: Java, JSP, Servlets, PL/SQL, Oracle 8i, ATG Dynamo 5.
 
 ## EDUCATION
 
-- **Regional Engineering College (NIT, Punjab Technical University) – Jalandhar, India**
+- **Bachelor of Technology, Industrial Engineering**
 
-   Bachelor of Technology, Industrial Engineering; 2000
+  Regional Engineering College (NIT, Punjab Technical University) – Jalandhar, India
 
-- **Centre for Development of Advanced Computing (CDAC) – Pune, India**
+- **Post Graduate in Advanced Computing**
 
-  Post Graduate in Advanced Computing; 2000
+  Centre for Development of Advanced Computing (CDAC) – Pune, India
 
 **N.B.** Green card holder.
